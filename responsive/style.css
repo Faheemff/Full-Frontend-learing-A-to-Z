@@ -8,3 +8,22 @@ html, body {
     height: 100%;
     width: 100%;
 }
+
+
+
+
+/* px fixed hote hain ya screen ke pixel pr depend krte hain. */
+
+.box {
+    height: 300px; /* < ya fix height hai ya screen ki pixel pr depend krta hai*/
+    width: 300px;  /* < ya fix width hai ya screen ki pixel pr depend krta hai*/
+    background-color: crimson;
+}
+
+/* % ya depend krta hai apne parent wale div pr */
+
+.inner {
+    height: 50%; /* < ya apen parent div pr depend krta hai kue ka child hai or depend krta hai apne parent pr*/
+    width: 50%; /* < ya apne parent div pr depend krta hai*/
+    background-color: black;
+}
