@@ -14,16 +14,39 @@ html, body {
 
 /* px fixed hote hain ya screen ke pixel pr depend krte hain. */
 
-.box {
-    height: 300px; /* < ya fix height hai ya screen ki pixel pr depend krta hai*/
-    width: 300px;  /* < ya fix width hai ya screen ki pixel pr depend krta hai*/
+/* .box {
+    height: 300px; -- < ya fix height hai ya screen ki pixel pr depend krta hai
+    width: 300px;  -- < ya fix width hai ya screen ki pixel pr depend krta hai
     background-color: crimson;
 }
 
-/* % ya depend krta hai apne parent wale div pr */
+-- % ya depend krta hai apne parent wale div pr 
 
 .inner {
-    height: 50%; /* < ya apen parent div pr depend krta hai kue ka child hai or depend krta hai apne parent pr*/
-    width: 50%; /* < ya apne parent div pr depend krta hai*/
+    height: 50%; -- < ya apen parent div pr depend krta hai kue ka child hai or depend krta hai apne parent pr
+    width: 50%; -- < ya apne parent div pr depend krta hai
     background-color: black;
+} */
+
+/* vw (viewport width)
+
+vw
+
+.box {
+    height: 40vw;
+    width: 40vw;
+    background-color: red;
 }
+*/
+
+/* vh (viewport height)
+
+vh
+
+.box {
+    height: 40vh;
+    width: 40vh;
+    background-color: red;
+}
+
+*/
