@@ -6,4 +6,8 @@ px - fixed hota hai -> ya screen ka pixel pr depend krta hai,
 
 -- vw
 vw - viewport width - ya screen ke width pr hota hai jue jue screen ki width kam hote jate hai sat mai us partikul
-element ya div ka size bi screen ki hasad se kam hota jata hai,
+element ya div ka size bi screen ki hasad se kam hota jata hai(depend on screen width),
+
+-- vh 
+vh - viewport height - ya screen ke height pr hota hai jue jue screen ki height kam hote jate hai sat mai us partikul
+element ya div ka size bi screen ki hasad se kam hota jata hai(depend on screen height),
