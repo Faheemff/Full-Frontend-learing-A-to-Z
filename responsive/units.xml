@@ -21,8 +21,16 @@ vmax - viewport maximun - ya screen ki ager width maximun hai ya heidth maximun 
 
 -- em
 em - emsqure - em mai serf parent ko ek bar value do pir us ki bad child ko ki value em ki help se set kro kue ka em apne
-parent ke size ka mutabk value or size set karta hai.
+parent ke size ka mutabk value or size set karta hai. jab hum parent ki value change karen ga to child ki value khuad change
+ho jahaige.
 
 -- rem
 
-rem - root em squre -
+rem - root em squre - ya apne root ki mutabk kam kr ta hai.
+
+-- ch
+ch -  character heidth - ya characterki width ki mutabk le ta hai.
+
+-- lh
+
+lh - line height - ya line heidth ki mutabk le ta hai.

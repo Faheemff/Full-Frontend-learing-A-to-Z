@@ -73,7 +73,8 @@ vh
 
 /* em rem*/
 
-.box {
+
+/* .box {
     height: 400px;
     width: 600px;
     background-color: lightseagreen;
@@ -90,4 +91,14 @@ vh
 
 .box p {
     font-size: 2em;
+} */
+
+
+/* ch */
+
+h1 {
+    width: 1ch;
 }
+
+
+/* lh */
