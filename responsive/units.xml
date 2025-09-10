@@ -34,3 +34,10 @@ ch -  character heidth - ya characterki width ki mutabk le ta hai.
 -- lh
 
 lh - line height - ya line heidth ki mutabk le ta hai.
+
+
+
+flex
+
+align-items: center;  /* main exx use hota hai y xx ka leya */
+justify-content: center;  /* cross exx use hota hai xixs ka leya */
