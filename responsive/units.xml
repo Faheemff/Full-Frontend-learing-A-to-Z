@@ -11,3 +11,18 @@ element ya div ka size bi screen ki hasad se kam hota jata hai(depend on screen 
 -- vh 
 vh - viewport height - ya screen ke height pr hota hai jue jue screen ki height kam hote jate hai sat mai us partikul
 element ya div ka size bi screen ki hasad se kam hota jata hai(depend on screen height),
+
+-- vmax
+vmax - viewport maximun - ya screen ki ager width maximun hai ya heidth maximun hai to ya us ki mutbek value set krta hai.
+
+-- vmin
+--vmin - viewport minumun - ya screen ki ager width minimun hai ya heidth minimun hai to ya us ki mutbek value set krta hai.
+
+
+-- em
+em - emsqure - em mai serf parent ko ek bar value do pir us ki bad child ko ki value em ki help se set kro kue ka em apne
+parent ke size ka mutabk value or size set karta hai.
+
+-- rem
+
+rem - root em squre -

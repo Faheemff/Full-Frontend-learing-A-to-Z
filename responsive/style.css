@@ -69,3 +69,25 @@ vh
 } */
 
 
+
+
+/* em rem*/
+
+.box {
+    height: 400px;
+    width: 600px;
+    background-color: lightseagreen;
+    font-size: 20px;
+}
+
+.box h1 {
+    font-size: 2em;
+}
+
+.box h2 {
+    font-size: 1.5em;
+}
+
+.box p {
+    font-size: 2em;
+}
