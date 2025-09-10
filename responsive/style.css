@@ -109,24 +109,35 @@ vh
     width: 100%;
     background-color: black;
     display: flex;
-    align-items: center;  /* ya use hota hai y xx ka leya */
-    justify-content: space-evenly;  /* ya use hota hai xixs ka leya */
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .chaild1 {
     height: 200px;
     width: 200px;
     background-color: burlywood;
+    flex-shrink: 0;
+    border: 1px solid black;
+
 }
 
 .chaild2 {
     height: 200px;
     width: 200px;
     background-color: pink;
+    flex-shrink: 0;
+    border: 1px solid black;
+
 }
 
 .chaild3 {
     height: 200px;
     width: 200px;
     background-color: crimson;
+    flex-shrink: 0;
+    border: 1px solid black;
+
+
 }
