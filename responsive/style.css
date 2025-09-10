@@ -146,6 +146,10 @@ vh
     height: 100%;
     width: 100%;
     background-color: black;
+    display: grid;
+    /* grid-template-columns: 1fr 2fr; */
+    /* grid-template-rows: 1fr 1fr 1fr  2fr; */
+    grid-auto-flow: dense;
 }
 
 .chaild1 {
