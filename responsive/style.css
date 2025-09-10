@@ -109,6 +109,8 @@ vh
     width: 100%;
     background-color: black;
     display: flex;
+    align-items: center;  /* ya use hota hai y xx ka leya */
+    justify-content: space-evenly;  /* ya use hota hai xixs ka leya */
 }
 
 .chaild1 {
